@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 | fmt -g
+cut -c 1 | fmt -9
