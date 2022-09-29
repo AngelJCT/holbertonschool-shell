@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1v | sort -n
+ls -1 | sort -v
