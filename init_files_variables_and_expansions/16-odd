@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | sort -v
+perl -ne 'print if (++$x)%2'
